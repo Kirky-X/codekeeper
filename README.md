@@ -997,14 +997,6 @@ You are free to use, modify, and distribute this software for any purpose.
 
 <div align="center">
 
-**Made with ❤️ by the CodeKeeper Team**
-
-</div>
-<div align="center">
-
-**Made with ❤️ by the CodeKeeper Team**
-
-</div>
-**Made with ❤️ by the CodeKeeper Team**
+**Made with ❤️ by Kirky.X**
 
 </div>

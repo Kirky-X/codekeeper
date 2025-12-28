@@ -698,6 +698,23 @@ CodeKeeper can be deployed as an MCP (Model Context Protocol) server to provide 
 }
 ```
 
+For local development, use:
+
+```json
+{
+  "mcpServers": {
+    "codekeeper": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--script-working-dir", "/path/to/codekeeper",
+        "codekeeper.mcp"
+      ]
+    }
+  }
+}
+```
+
 <details>
 <summary><b>📋 Available MCP Tools</b></summary>
 

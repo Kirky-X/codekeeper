@@ -267,7 +267,7 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
 
             results = codekeeper.add_copyright_headers(
                 recursive=arguments.get("recursive", True),
-                license=license_type,
+                license_type=license_type,
                 author=author,
                 year_range=year_range,
             )

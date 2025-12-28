@@ -672,6 +672,49 @@ export CODEKEEPER_APM_VENDOR="datadog"
 
 </details>
 
+### 🤖 MCP Server Configuration
+
+<div align="center">
+
+### 🔗 MCP Integration
+
+</div>
+
+CodeKeeper can be deployed as an MCP (Model Context Protocol) server to provide its functionality to AI assistants. Configure MCP servers in `.mcp-config.json`:
+
+```json
+{
+  "mcpServers": {
+    "codekeeper": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "git+https://github.com/Kirky-X/codekeeper.git",
+        "codekeeper.mcp"
+      ]
+    }
+  }
+}
+```
+
+<details>
+<summary><b>📋 Available MCP Tools</b></summary>
+
+<br>
+
+| Tool Name           | Description                                                      |
+|---------------------|------------------------------------------------------------------|
+| `copyright`         | Add copyright headers to code files                              |
+| `remove_copyright`  | Remove copyright headers from code files                         |
+| `validate_copyright`| Validate copyright headers in code files                         |
+| `clean`             | Scan for and clean junk/temporary files                          |
+| `register_pattern`  | Register a custom junk file pattern for cleaning                 |
+| `scan_annotations`  | Scan Python files for functions missing docstrings/comments      |
+| `annotation_summary`| Get summary statistics for function annotation coverage          |
+
+</details>
+
 ---
 
 ## 🧪 Testing

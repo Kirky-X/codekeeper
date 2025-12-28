@@ -1379,7 +1379,7 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
             if missing:
                 output.append(f"\nFunctions missing comments ({len(missing)}):\n")
                 for func in missing[:20]:
-                    output.append(f"  {func.file_path}:{func.line_number} - {func.name}()")
+                    output.append(f"  {func.file_path}:{func.start_line} - {func.name}()")
                 if len(missing) > 20:
                     output.append(f"  ... and {len(missing) - 20} more")
 

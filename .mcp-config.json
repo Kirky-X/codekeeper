@@ -6,7 +6,7 @@
         "run",
         "--with",
         "git+https://github.com/Kirky-X/codekeeper.git",
-        "codekeeper-mcp"
+        "codekeeper"
       ]
     }
   }

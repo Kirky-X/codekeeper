@@ -98,7 +98,7 @@ jobs:
         run: pytest tests/ --benchmark-only --benchmark-json=benchmark_results.json
 
       - name: Store benchmark results
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: benchmark-results
           path: benchmark_results.json

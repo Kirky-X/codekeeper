@@ -1,3 +1,807 @@
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2015 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2015 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the INVALID-LICENSE-TYPE License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author.With.Dots. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author_With_Underscore. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author-With-Hyphen. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author with spaces. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2015 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2020-2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test_Author123. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Organization Name. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author <email@example.com>. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the GPL-3.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the BSD-3-Clause License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the Apache-2.0 License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2025 Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
+# Copyright (c) 2024-2025 Test Author. All rights reserved.
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
 from dataclasses import dataclass
 from enum import Enum
 from pathlib import Path
@@ -91,7 +895,7 @@ class CopyrightManager:
             )
 
         if self.snapshot_manager:
-            self.snapshot_manager.create_snapshot(file_path, content)
+            self.snapshot_manager.create_snapshot([file_path], "Copyright backup")
 
         try:
             new_content = handler.insert_copyright(
@@ -113,6 +917,7 @@ class CopyrightManager:
             )
         except (OSError, UnicodeDecodeError) as e:
             if self.snapshot_manager:
+                self.snapshot_manager.create_snapshot([file_path], "Copyright backup")
                 self.snapshot_manager.rollback_to_latest(file_path)
             return CopyrightResult(
                 file_path=file_path,
@@ -150,7 +955,7 @@ class CopyrightManager:
             )
 
         if self.snapshot_manager:
-            self.snapshot_manager.create_snapshot(file_path, content)
+            self.snapshot_manager.create_snapshot([file_path], "Copyright backup")
 
         lines = content.split("\n")
         new_lines = []
@@ -225,3 +1030,39 @@ class CopyrightManager:
             result = self.remove_copyright(file_path)
             results.append(result)
         return results
+
+    def validate_copyright(self, file_path: Path) -> CopyrightResult:
+        handler = self._get_handler(file_path)
+        if handler is None:
+            return CopyrightResult(
+                file_path=file_path,
+                success=False,
+                action="skip",
+                message=f"No handler found for file type: {file_path.suffix}",
+            )
+
+        try:
+            content = file_path.read_text(encoding="utf-8")
+            has_copyright = handler.has_copyright(content)
+
+            if has_copyright:
+                return CopyrightResult(
+                    file_path=file_path,
+                    success=True,
+                    action="valid",
+                    message="Copyright header is valid",
+                )
+            else:
+                return CopyrightResult(
+                    file_path=file_path,
+                    success=False,
+                    action="invalid",
+                    message="No copyright header found",
+                )
+        except (OSError, UnicodeDecodeError) as e:
+            return CopyrightResult(
+                file_path=file_path,
+                success=False,
+                action="error",
+                message=f"Failed to read file: {e}",
+            )
